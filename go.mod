@@ -1,4 +1,4 @@
-module eventWatchcontroller
+module eventWatchController
 
 go 1.19
 
